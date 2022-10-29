@@ -1,0 +1,9 @@
+body {
+    background-color:azure;
+}
+.floatLeft{
+    float: left;
+    padding: 1.1em;
+    border-style: double;
+    margin: 12px;
+}
